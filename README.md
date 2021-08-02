@@ -35,19 +35,10 @@ Here are some ideas to get you started:
 ---
 
 ## :zap: My Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudula-Kulkarni&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-Kulkarni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mrudula-Kulkarni&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mrudula-Kulkarni&hide=php&theme=default" />
-</a>
-</div>
+
 
 
 
