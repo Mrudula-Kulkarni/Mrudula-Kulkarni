@@ -33,8 +33,14 @@
 ---
 
 ## :zap: My Github Stats:
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudula-Kulkarni&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-Kulkarni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 
 
