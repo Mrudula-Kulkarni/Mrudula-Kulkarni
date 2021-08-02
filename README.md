@@ -34,7 +34,7 @@
 
 ## :zap: My Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudula-Kulkarni&show_icons=true&theme=default)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudula-Kulkarni&show_icons=true&theme=default)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-Kulkarni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
