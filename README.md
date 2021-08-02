@@ -1,12 +1,10 @@
 ### Hi There, I'm Mrudula 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Wed Dev projects.
 - 🌱 I’m currently learning Frontend development.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with React.
-- 💬 Ask me about C++,Python,HTML,CSS,Soft Skills.
+- 💬 Ask me about C++,Python,HTML,CSS,Javascipt,Soft Skills.
 - 😄 Pronouns: ...She/Her
 
 ### Connect with me on :
@@ -36,7 +34,8 @@ Here are some ideas to get you started:
 
 ## :zap: My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudula-Kulkarni&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-Kulkarni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
